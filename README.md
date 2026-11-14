@@ -2,6 +2,8 @@
 
 A Claude skill that closes your week on one page: what got done, where the time went, what slipped, and three priorities for next week.
 
+**[Website](https://adrienbalcioglu.github.io/weekly-review/)**
+
 - **Done**: outcomes of the week, not activity
 - **Time**: hours in meetings, biggest blocks, longest free stretch
 - **Slipped**: overdue tasks and people still waiting for an answer
